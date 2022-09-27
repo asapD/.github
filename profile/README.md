@@ -16,14 +16,20 @@ The theme is to develop a user authentication-based door lock system.
 So each repository was created and worked on. 
 If you are curious about the details, you can refer to the repository of the part.
 
-## Android
 
-We use android-studio and java. 
+## 📚 Tech
+<p align="center">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
+<img src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a> &nbsp
+ </p>
 
-## Arduino
-
-We use Arduino UNO R3, HC-05, DE2110, Servo Motor and Arduino IDE.
-
-## Server
-
-We use IntelliJ, java, spring boot+, docker-compose, MySQL, redis, AWS EC2, SMS Service, Swagger, spring security,and jwt.
+## ⚒️ Tools
+<p align="center">
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellij idea&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
+ </p>
