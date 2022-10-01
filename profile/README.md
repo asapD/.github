@@ -16,6 +16,9 @@ The theme is to develop a user authentication-based door lock system.
 So each repository was created and worked on. 
 If you are curious about the details, you can refer to the repository of the part.
 
+Our future plans are as follows. <br/>
+In Arduino, an initial system structure, there is a possibility of expansion into an http communication structure using a Wi-Fi module. When trying to use the Arduino Wi-Fi module esp 8266, a library crash issue occurred, adding the final system architecture to Arduino and Android communication logic using the Bluetooth module. It also plans to implement business logic in depth. Please look forward to the final distribution.
+
 
 ## 📚 Tech
 <p align="center">
